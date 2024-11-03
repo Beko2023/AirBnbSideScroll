@@ -1,28 +1,6 @@
-# co6034d2a8f2bb00fe28774d8
+Along with other static components seen on display, we built a separate side scroll component in React. This was achieved using props to pass on the information exported from the "Data.js" the file acting as a makeshift database.  
 
-Quick start:
+The "<Card/>" component is the side scroll component seen at the bottom of the page;
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+![image](https://github.com/user-attachments/assets/b1eb7d4a-d76c-40c0-b235-7c51857f02b8)
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
